@@ -10,4 +10,4 @@ them for a 5 year period. It is able to create participants for a course and dis
 course when requested. It is able to delete or alter details of specific courses, faculty, or participants. It is also possible to save all entered data in a file and later read them to reconstruct the courses,
 participants, etc. 
 
-**Note**: This software is created via Java Netbeans 8.0.2. To use it simply add this project via an IDE. Also please **report** if you find any **Bugs**. Thank you.
+**Note**: This software is created via Java Netbeans 8.0.2. To use it simply add this project via an IDE. Also please **report** if you find any Bugs. Thank you.
